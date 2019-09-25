@@ -1,0 +1,24 @@
+{
+  "name": "js_vector2d",
+  "version": "1.0.0",
+  "description": "Simple class of a vector 2d",
+  "main": "project/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Chapo0133/js_vector2D.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "vector"
+  ],
+  "author": "Loris Levêque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-Chapo0133/js_vector2D/issues"
+  },
+  "homepage": "https://github.com/El-Chapo0133/js_vector2D#readme"
+}
